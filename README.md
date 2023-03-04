@@ -117,7 +117,7 @@ CDC позволит не озадачиваться вопросами тран
 #### Компоненты
 ![Stage-3-Components](images/stage-3-components.png "Компоненты stage 3")
 #### Контейнеры
-![Stage-3-Containers](images/stage-2-containers.png "Компоненты stage 3")
+![Stage-3-Containers](images/stage-3-containers.png "Компоненты stage 3")
 
 
  - [ADR-7](ADR/ADR-7-clickhouse.md) Использование ClickHouse для работы с витринами данных.
